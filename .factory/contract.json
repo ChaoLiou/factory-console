@@ -1,33 +1,23 @@
 {
   "contract_version": 1,
-  "product_form": "{{PRODUCT_FORM}}",
-
+  "product_form": "web",
   "preview": {
     "read_from": "{{PREVIEW_READ_FROM}}",
     "match": "{{PREVIEW_MATCH}}",
     "commit_check": "{{PREVIEW_COMMIT_CHECK}}",
-    "service_token_env": ["{{PREVIEW_TOKEN_ENV}}"],
+    "service_token_env": [
+      "{{PREVIEW_TOKEN_ENV}}"
+    ],
     "ready_timeout_seconds": 600
   },
-
   "seed": {
     "reset_command": "{{SEED_RESET_COMMAND}}",
     "ready_check": "{{SEED_READY_CHECK}}"
   },
-
   "login": {
-    "applicable": true,
-    "accounts": [
-      {
-        "role": "{{ROLE}}",
-        "email_env": "{{EMAIL_ENV}}",
-        "password_env": "{{PASSWORD_ENV}}",
-        "login_path": "{{LOGIN_PATH}}",
-        "signed_in_marker": "{{SIGNED_IN_MARKER}}"
-      }
-    ]
+    "applicable": false,
+    "why": "第 3 題答「不用」。只有廠主會用，而且它綁 127.0.0.1"
   },
-
   "allowance": [
     {
       "kind": "{{ALLOWANCE_KIND}}",
