@@ -255,7 +255,7 @@ def main(argv):
                 drop_worktree(factory, tree)
 
     if action != "run":
-        print("\n這是 plan。要真的派工加 run，而且給 FAC_WORKER_CMD。")
+        print("\n這是 plan。要真的派工加 run。")
     return 0
 
 

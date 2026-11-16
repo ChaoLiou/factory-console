@@ -57,11 +57,15 @@
     },
     ".factory/dispatch.py": {
       "mode": "file",
-      "sha256": "7cdd1c7ff6418282a98444f9cf87610efaaa57424c55a9bcd8e4a09dddd7caba"
+      "sha256": "70c33d60f34289b6fdcf3106bbd31d05f9e3d6d0f11e496ee289d58abf7c8a43"
     },
     ".factory/security.md": {
       "mode": "file",
       "sha256": "28ef28f7cdccbd724194b48e8b23c20bdc4f916c6ae1d5daef5fb8e029fb2c50"
+    },
+    ".factory/tools.json": {
+      "mode": "file",
+      "sha256": "cc70530b8860f89accb3069f1472b25e1f81657cddf3b97e0dc3fc6de31935cd"
     },
     "CLAUDE.md": {
       "mode": "region",
