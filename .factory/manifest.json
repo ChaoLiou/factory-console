@@ -1,7 +1,7 @@
 {
   "scaffold": {
-    "version": "bb07dce",
-    "commit": "bb07dced79789e96c22945497ca28ca9791e7a63"
+    "version": "f201f21",
+    "commit": "f201f21c808e37928267ef2e6b764ca0d2e7e8c0"
   },
   "tier": "L3",
   "console": {
@@ -9,11 +9,11 @@
     "path": ".factory/console"
   },
   "product_form": "web",
-  "created_at": "2026-11-16T15:35:02Z",
+  "created_at": "2026-11-16T15:54:18Z",
   "shared": {
     ".claude/skills/fac-implement/SKILL.md": {
       "mode": "file",
-      "sha256": "9666ff8852727b04b0f98616a52e8406f15d53a3063e7c0ed8793fc97f8b4329"
+      "sha256": "ec58022881c014417953e0a7e7a06fe4e42391ba4e9f73d98d9b6bb4172a5e23"
     },
     ".claude/skills/fac-improve-review/SKILL.md": {
       "mode": "file",
@@ -33,7 +33,7 @@
     },
     ".claude/skills/fac-monitor/SKILL.md": {
       "mode": "file",
-      "sha256": "e5a3d325c8794f59791401f11417ff99e1e58b3da910bbe3ea8ba23e4dcb8eff"
+      "sha256": "f253b3d2415f0fa5302759fd7928f9dbfc55a26f3b5910801085aefa018f9a64"
     },
     ".claude/skills/fac-review/SKILL.md": {
       "mode": "file",
@@ -53,7 +53,11 @@
     },
     ".claude/skills/fac-verify/SKILL.md": {
       "mode": "file",
-      "sha256": "a37214b5f5479904335a6fa4881b99f9fc4ef1210cafef9135092be91c1b8182"
+      "sha256": "9bbb53d7b3efaccae62aa1f36e181e81a11267b0e6a325d5572080da1750b381"
+    },
+    ".factory/dispatch.py": {
+      "mode": "file",
+      "sha256": "7cdd1c7ff6418282a98444f9cf87610efaaa57424c55a9bcd8e4a09dddd7caba"
     },
     ".factory/security.md": {
       "mode": "file",
