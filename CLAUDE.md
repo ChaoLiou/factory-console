@@ -191,7 +191,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 <!-- 以下是這座工廠自己的。腳手架不碰。 -->
 
-{{PRODUCT_NAME}} —— {{PRODUCT_ONE_LINER}}
+factory-console —— 一個本機跑的控制台，讓廠主在一個地方看懂工廠的狀態並在關卡上做決定。它不存狀態，動作一律落成 GitHub 事件。
 
 | | |
 |---|---|

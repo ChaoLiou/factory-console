@@ -1,4 +1,4 @@
-# 技術規格 — {{PRODUCT_NAME}}
+# 技術規格 — factory-console
 
 白話規格在 `../SPEC.md`。這一份描述架構與程式碼的形狀，會隨實作反覆調整。
 
